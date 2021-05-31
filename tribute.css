@@ -1,0 +1,213 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color:rgb(19, 18, 18);
+}
+
+marquee{
+    background-color: black;
+    color: white;
+}
+
+#image{
+    max-width: 100%;
+    width: 1300px;
+   height: auto;
+    margin-top: 20px;
+   margin-left: 20px;
+   border-radius: 10px;
+}
+
+
+#title{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 60px;
+    text-shadow: 4px 3px 4px rgb(79, 154, 197);
+    color: khaki;
+}
+
+#img-caption{
+    text-align: right;
+    margin-right: 40px;
+    color: khaki;
+}
+
+#tribute-link{
+    border: black thin;
+    border-radius: 5px;
+    background-color: rgb(217, 251, 252);
+    width: 150px;
+    height: 300px;
+    margin-left: 40px;
+    padding: 20px;
+    font-size: larger;
+    margin-top: 100px;
+}
+
+#tribute-link:hover{
+    box-shadow: 4px 4px 4px grey;
+}
+
+li{
+    list-style-type: none;
+    padding: 10px;
+}
+
+li:hover{
+    background-color:rgb(188, 226, 228) ;
+    border-radius: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#para{
+    width: 970px;
+    margin-left: 25%;
+    margin-top: -340px;
+    font-size: larger;
+    color: whitesmoke;
+}
+
+.heading{
+    color: black;
+    text-align: center;
+    font-size: 70px;
+    background-color:#916E74 ;
+    border-radius: 10px 10px 0px 0px;
+}
+
+#career{
+    margin-top: 70px;
+    width: 1200px;
+    margin-left: 7%;
+    text-align: center;
+    color: black;
+    background-color: rgb(216, 216, 216);
+    border-radius: 10px;
+}
+
+#career p{
+    padding: 10px;
+}
+
+
+#presidency{
+    margin-top: 70px;
+    width: 1200px;
+    margin-left: 7%;
+    text-align: center;
+    color: black;
+    background-color: rgb(216, 216, 216);
+    border-radius: 10px;
+}
+
+#presidency p{
+    padding: 10px;
+}
+
+
+#post-presidency{
+    margin-top: 70px;
+    width: 1200px;
+    margin-left: 7%;
+    text-align: center;
+    color: black;
+    background-color: rgb(216, 216, 216);
+    border-radius: 10px;
+}
+
+#post-presidency p{
+    padding: 10px;
+}
+
+
+#death{
+    margin-top: 70px;
+    width: 1200px;
+    margin-left: 7%;
+    text-align: center;
+    color: black;
+    background-color: rgb(216, 216, 216);
+    border-radius: 10px;
+}
+
+#death p{
+    padding: 10px;
+}
+
+
+#writtings{
+    margin-top: 70px;
+    width: 1200px;
+    margin-left: 7%;
+    text-align: center;
+    color: black;
+    background-color: rgb(216, 216, 216);
+    border-radius: 10px;
+}
+
+#writtings p{
+    padding: 10px;
+}
+
+
+#personal-life{
+    margin-top: 70px;
+    width: 1200px;
+    margin-left: 7%;
+    text-align: center;
+    color: black;
+    background-color: rgb(216, 216, 216);
+    border-radius: 10px;
+}
+
+#personal-life p{
+    padding: 10px;
+}
+
+#footer-img img{
+    height: 300px;
+    width: 320px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#footer-img :first-child{
+    margin-left: 10px;
+}
+
+#footer-img{
+    margin-top: 15%;
+    background-color: rgb(49, 49, 49);
+}
+
+footer{
+    background-color:#434b31;
+    margin-top: 10%;
+    height: 100px;
+    text-align: center;
+}
+
+footer h1{
+    color: black;
+    font-family:fantasy;
+    margin-top: 10%;
+    padding-top: 10px;
+}
+
+footer button{
+    background-color: chocolate;
+    color: whitesmoke;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+
+
